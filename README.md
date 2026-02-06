@@ -76,14 +76,6 @@ The dataset contains transactional-level sales data with the following attribute
 
 ---
 
-## 🚀 How to Use This Project
-1. Download the Excel file from the repository.
-2. Open it using Microsoft Excel.
-3. Use slicers to filter data by location, category, month, and coupon status.
-4. Analyze KPIs and charts to derive insights.
-
----
-
 ## 📌 Conclusion
 This project demonstrates how Excel dashboards can be effectively used for sales analytics and business decision-making.  
 It is suitable for data analyst and business analyst portfolios, interviews, and real-world reporting scenarios.
